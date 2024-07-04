@@ -2,12 +2,11 @@
     "author_name": "Louis Taylor",
     "author_email": "louis@kragniz.eu",
 
-    "package_name": "cookiecutter_pypackage_minimal",
-    "package_version": "0.1.0",
+    "package_name": "cookiecutter_darkest_python",
+    "package_version": "0.0.1",
     "package_description": "An opinionated, minimal cookiecutter template for Python packages",
     "package_url": "https://github.com/kragniz/cookiecutter-pypackage-minimal",
     
-    "readme_pypi_badge": true,
-    "readme_travis_badge": true,
-    "readme_travis_url": "https://travis-ci.org/kragniz/cookiecutter-pypackage-minimal"
+    "readme_pypi_badge": false,
+    "readme_travis_badge": false
 }
